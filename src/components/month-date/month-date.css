@@ -1,0 +1,14 @@
+.month-date-name {
+  padding: 20px 0;
+  font-family: "Commissioner", sans-serif;
+  font-weight: 300;
+  font-size: 36px;
+  align-items: center;
+}
+
+.month-date-name-box {
+  display: flex;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=month-date.css.map */
