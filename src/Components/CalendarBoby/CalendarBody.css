@@ -1,0 +1,10 @@
+.calendar-body {
+  margin: 0 3vw;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+/*# sourceMappingURL=CalendarBody.css.map */

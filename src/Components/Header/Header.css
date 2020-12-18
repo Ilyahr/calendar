@@ -1,0 +1,50 @@
+.d-flex {
+  display: flex;
+}
+
+.header {
+  background-color: #FFE4B3;
+  height: 8vh;
+  width: 100%;
+  justify-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  margin-left: 30px;
+  font-size: 32px;
+}
+
+.btn-box {
+  display: flex;
+  justify-content: right;
+  margin-right: 30px;
+}
+
+.btn-nav {
+  border: solid 3px #ff6D40;
+  background-color: #ff6d40;
+  border-radius: 10px;
+  margin: 0 10px;
+  font-size: 24px;
+  width: 110px;
+  height: 50px;
+  outline: none;
+  transition: background-color, border;
+}
+
+.signup:hover {
+  background-color: rgba(255, 109, 64, 0.7);
+  border: solid 3px rgba(255, 109, 64, 0);
+}
+
+.login:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+  border: solid 3px rgba(255, 109, 64, 0.3);
+}
+
+.login {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/*# sourceMappingURL=Header.css.map */

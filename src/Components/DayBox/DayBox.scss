@@ -1,0 +1,31 @@
+$box-size: 40px;
+
+.day{
+  font-family: 'Commissioner', sans-serif;
+  font-weight: 200;
+  font-size: 24px;
+  border-radius: ($box-size/2);
+  margin: 3px;
+  background-color: #FFBC40;
+  padding: $box-size/4;
+  width: $box-size;
+  height: $box-size;
+  transition: transform .3s;
+}
+
+.day:hover{
+  transform: scale(1.1);
+}
+
+.today-color{
+  background-color: #34CFBE;
+}
+
+.opacity{
+  background-color: rgba(255, 157, 0, 0.2);
+}
+
+.active{
+  background-color: #ff6d40;
+}
+

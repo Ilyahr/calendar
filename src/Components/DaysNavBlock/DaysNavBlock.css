@@ -1,0 +1,19 @@
+.day-name {
+  font-family: "Commissioner", sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+  border-radius: 16.6666666667px;
+  margin: 3px;
+  background-color: #ffe4b3;
+  padding: 7.5px;
+  width: 30px;
+  height: 30px;
+  transition: transform 0.3s;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+/*# sourceMappingURL=DaysNavBlock.css.map */

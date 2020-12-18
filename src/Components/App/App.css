@@ -1,0 +1,15 @@
+.work-zone {
+  justify-content: space-between;
+  display: flex;
+  margin: 5vh auto 0 auto;
+}
+
+.hidden {
+  overflow: hidden;
+}
+
+.hide {
+  display: none;
+}
+
+/*# sourceMappingURL=App.css.map */

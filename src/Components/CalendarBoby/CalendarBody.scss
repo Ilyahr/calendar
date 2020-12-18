@@ -1,0 +1,32 @@
+//.left-arrow{
+//  transform: rotate(180deg);
+//}
+//
+//.arrow{
+//  border-radius: 17px;
+//  transition: transform .2s;
+//}
+//
+//.right-arrow:hover{
+//  transform: scale(1.1);
+//}
+//
+//.left-arrow:hover{
+//  transform: rotate(180deg) scale(1.1);
+//}
+//
+//
+//.month-name{
+//  font-family: 'Commissioner', sans-serif;
+//  font-weight: 400;
+//  font-size: 70px;
+//}
+
+.calendar-body{
+  margin: 0 3vw;
+}
+
+.d-flex{
+  display: flex;
+  justify-content: space-around;
+}
